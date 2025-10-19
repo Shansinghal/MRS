@@ -68,17 +68,20 @@ Check `requirements.txt` for full list of dependencies.
    cd MRS
 
 2. Install dependencies:
+   ```
    pip install -r requirements.txt
 
-3. Obtain your TMDB API key:
+4. Obtain your TMDB API key:
    Sign up/log in at https://www.themoviedb.org/
    Go to your account → Settings → API → Create new API key
    Store the key securely (for example in a .env file) and make sure your code accesses it (e.g., via os.environ["TMDB_API_KEY"])
 
-4. Run the application:
+5. Run the application:
+   ```
    streamlit run app.py
 
-5. Use the UI to select a movie and get recommendations (with posters!)
+7. Use the UI to select a movie and get recommendations (with posters!)
 
 
 <img width="996" height="719" alt="{1EB3923D-BAF4-4ECD-B242-5923132A7701}" src="https://github.com/user-attachments/assets/796a7433-f4f4-4792-b61f-42773f931f88" />
+
