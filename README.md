@@ -84,4 +84,6 @@ Check `requirements.txt` for full list of dependencies.
 
 
 <img width="996" height="719" alt="{1EB3923D-BAF4-4ECD-B242-5923132A7701}" src="https://github.com/user-attachments/assets/796a7433-f4f4-4792-b61f-42773f931f88" />
+<img width="1849" height="970" alt="{1789FF76-0B6D-4837-A4B8-174B830E4BEF}" src="https://github.com/user-attachments/assets/bba535ac-2de4-4ee5-8b42-8e7705dff40f" />
+
 
