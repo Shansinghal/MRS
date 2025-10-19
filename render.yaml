@@ -1,7 +1,8 @@
 services:
   - type: web
-    name: mrs-app
+    name: mrs
     env: python
-    pythonVersion: 3.10
-    buildCommand: pip install -r requirements.txt
-    startCommand: streamlit run app.py
+    buildCommand: "pip install -r requirements.txt"
+    startCommand: "sh setup.sh && streamlit run app.py"
+    pythonVersion: 3.10.12
+
