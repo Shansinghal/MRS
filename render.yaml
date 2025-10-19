@@ -3,6 +3,6 @@ services:
     name: mrs
     env: python
     buildCommand: "pip install -r requirements.txt"
-    startCommand: "sh setup.sh && streamlit run app.py"
+    startCommand: "streamlit run app.py"
     pythonVersion: 3.10.12
 
